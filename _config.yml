@@ -1,5 +1,5 @@
-title: "Luxor Bourommavong"
-description: "Data Science Portfolio documenting my learning throughout the semester"
+title: "Luxor's Data Science Portfolio"
+description: "An academic and professional portfolio documenting my learning throughout my data science journey."
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
@@ -9,7 +9,11 @@ baseurl: "/Data-Science-Portfolio"
 
 author:
   name: "Luxor Bourommavong"
-  bio: "Data Science Student at UNC Charlotte, interested in Humanitarian data analysis."
+  bio: "Data Science Student at UNC Charlotte. Passionate about leveraging data science techniques to solve real-world humanitarian problems and drive informed decision-making for a more sustainable future."
+  links:
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/Data-Science-Portfolio/assets/files/resume.pdf"
 
 plugins:
   - jekyll-remote-theme
