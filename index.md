@@ -4,9 +4,8 @@ title: "Home"
 author_profile: true
 ---
 
-# Luxor Bourommavong
-Data Science Student  
-UNC Charlotte
+# Recent Activity
+
 
 ## About Me
 Hello! I'm a student of Data Science interested primarily in humanitarian data analysis.
