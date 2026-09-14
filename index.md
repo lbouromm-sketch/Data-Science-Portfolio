@@ -1,3 +1,6 @@
+[Projects](projects.html) · [Blog](blog.html)
+
+
 # Luxor Bourommavong
 Data Science Student  
 UNC Charlotte
