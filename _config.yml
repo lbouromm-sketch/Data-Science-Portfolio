@@ -14,6 +14,9 @@ author:
     - label: "Resume"
       icon: "fas fa-fw fa-file-pdf"
       url: "/Data-Science-Portfolio/assets/files/resume.pdf"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/luxor-b-ba8a70436"
 
 plugins:
   - jekyll-remote-theme
