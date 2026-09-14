@@ -2,7 +2,7 @@ title: "Luxor Bourommavong"
 description: "Data Science Portfolio documenting my learning throughout the semester"
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "dark"
 
 url: "https://lbouromm-sketch.github.io"
 baseurl: "/Data-Science-Portfolio"
