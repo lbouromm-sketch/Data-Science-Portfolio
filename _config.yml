@@ -1,4 +1,16 @@
-title: Data Science Portfolio
-description: Documenting my learning in Data Structures
-theme: jekyll-theme-minimal
-show_downloads: false
+title: "Luxor Bourommavong"
+description: "Data Science Portfolio documenting my learning throughout the semester"
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dirt"
+
+url: "https://lbouromm-sketch.github.io"
+baseurl: "/Data-Science-Portfolio"
+
+author:
+  name: "Luxor Bourommavong"
+  bio: "Data Science Student at UNC Charlotte, interested in Humanitarian data analysis."
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache

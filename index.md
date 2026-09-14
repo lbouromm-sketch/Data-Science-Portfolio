@@ -1,5 +1,8 @@
-[Projects](projects.html) · [Blog](blog.html)
-
+---
+layout: single
+title: "Home"
+author_profile: true
+---
 
 # Luxor Bourommavong
 Data Science Student  
