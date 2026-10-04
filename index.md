@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Recent Activity
+- **Oct 4, 2026** — [Project 2: Predicting Water Point Functionality](projects.html#project-2-predicting-water-point-functionality) — Machine learning classification of water point condition in Tanzania.
 - **Sep 14, 2026** — [Project 1: Does National Wealth Predict Health?](projects.html) — GDP per capita vs. life expectancy EDA using the World Bank API.
 
 ## About Me
